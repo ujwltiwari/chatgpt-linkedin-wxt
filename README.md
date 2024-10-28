@@ -27,3 +27,9 @@ This repository contains a Chrome extension that enhances the LinkedIn messaging
 ### 6. Generate Response
 
 - When the user clicks on the "Generate" button, a dummy response is displayed:
+
+## Demo Video
+
+<video width="640" height="360" controls autoplay muted>
+<source src="https://github.com/ujwltiwari/chatgpt-linkedin-wxt/raw/refs/heads/main/demo-video.mp4" type="video/mp4">
+</video>
