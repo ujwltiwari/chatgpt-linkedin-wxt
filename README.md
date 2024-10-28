@@ -30,6 +30,9 @@ This repository contains a Chrome extension that enhances the LinkedIn messaging
 
 ## Demo Video
 
+- Please use this link if video doesn't work
+  https://github.com/ujwltiwari/chatgpt-linkedin-wxt/raw/refs/heads/main/demo-video.mp4
+
 <video width="640" height="360" controls autoplay muted>
 <source src="https://github.com/ujwltiwari/chatgpt-linkedin-wxt/raw/refs/heads/main/demo-video.mp4" type="video/mp4">
 </video>
